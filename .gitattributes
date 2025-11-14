@@ -1,0 +1,2 @@
+images/products/*.jpg/* !text !filter !merge !diff
+/images/products* !text !filter !merge !diff
